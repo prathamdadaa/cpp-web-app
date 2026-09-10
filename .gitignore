@@ -1,0 +1,4 @@
+*.cgi
+*.o
+*.exe
+.DS_Store
